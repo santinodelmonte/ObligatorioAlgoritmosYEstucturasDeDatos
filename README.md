@@ -1,2 +1,3 @@
 # ObligatorioAlgoritmosYEstucturasDeDatos
-El Sistema de Gestión de Categorías de Productos es una solución de comercio electrónico desarrollada en PHP, diseñada para estructurar y administrar un catálogo mediante una jerarquía dinámica e ilimitada de categorías.
+El Sistema de Gestión de Categorías de Productos es una solución de comercio electrónico desarrollada en PHP, diseñada para estructurar y administrar un catálogo mediante una jerarquía dinámica e ilimitada de categorías. El objetivo principal es implementar y demostrar el dominio de la Programación Orientada a Objetos (POO) y las Estructuras de Datos Avanzadas, específicamente un Árbol N-ario.
+El sistema debe gestionar las relaciones entre cinco entidades clave: Categorías, Productos, Proveedores, Stock y Pedidos de reposición, ofreciendo una funcionalidad 
